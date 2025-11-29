@@ -48,3 +48,4 @@ Month Name = FORMAT(sales[transaction_date], "MMMM")
 ## About Me
 I’m **Manish Joshi**, a Data Analyst skilled in Power BI, SQL, Python, and EDA.  
 This project showcases my ability to clean data, build KPIs, design dashboards, and generate business insights.
+
